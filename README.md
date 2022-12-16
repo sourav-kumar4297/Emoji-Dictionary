@@ -1,2 +1,3 @@
 # Emoji-Dictionary
-Created with CodeSandbox
+
+live link - https://lxv600.csb.app/
